@@ -1,0 +1,426 @@
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHT" not found; SQL statement:
+ALTER TABLE ACCESSRIGHT DROP CONSTRAINT FK_ACCESSRIGHT_SELFPERMISSIONS_ID [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHT" not found; SQL statement:
+ALTER TABLE ACCESSRIGHT DROP CONSTRAINT FK_ACCESSRIGHT_PERMISSIONS_ID [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATION" not found; SQL statement:
+ALTER TABLE APPLICATION DROP CONSTRAINT FK_APPLICATION_APOCPATHS_ID [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "NOTIFICATIONCHANNEL" not found; SQL statement:
+ALTER TABLE NOTIFICATIONCHANNEL DROP CONSTRAINT FK_NOTIFICATIONCHANNEL_CHANNELDATA_ID [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS_APOCPATH" not found; SQL statement:
+ALTER TABLE APOCPATHS_APOCPATH DROP CONSTRAINT FK_APOCPATHS_APOCPATH_APOCPATHS_ID [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE_PERMISSION" not found; SQL statement:
+ALTER TABLE PERMISSIONLISTTYPE_PERMISSION DROP CONSTRAINT PERMISSIONLISTTYPE_PERMISSIONPERMISSIONLISTTYPE_ID [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHT" not found; SQL statement:
+DROP TABLE ACCESSRIGHT [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHTANNC" not found; SQL statement:
+DROP TABLE ACCESSRIGHTANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS" not found; SQL statement:
+DROP TABLE APOCPATHS [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ATTACHEDDEVICE" not found; SQL statement:
+DROP TABLE ATTACHEDDEVICE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATION" not found; SQL statement:
+DROP TABLE APPLICATION [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATIONANNC" not found; SQL statement:
+DROP TABLE APPLICATIONANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CHANNELDATA" not found; SQL statement:
+DROP TABLE CHANNELDATA [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINERANNC" not found; SQL statement:
+DROP TABLE CONTAINERANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINER" not found; SQL statement:
+DROP TABLE CONTAINER [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCE" not found; SQL statement:
+DROP TABLE CONTENTINSTANCE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCES" not found; SQL statement:
+DROP TABLE CONTENTINSTANCES [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "EXECINSTANCE" not found; SQL statement:
+DROP TABLE EXECINSTANCE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPENTITY" not found; SQL statement:
+DROP TABLE GROUPENTITY [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPANNC" not found; SQL statement:
+DROP TABLE GROUPANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINER" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINER [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINERANNC" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINERANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "M2MPOC" not found; SQL statement:
+DROP TABLE M2MPOC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTCMD" not found; SQL statement:
+DROP TABLE MGMTCMD [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTOBJ" not found; SQL statement:
+DROP TABLE MGMTOBJ [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "NOTIFICATIONCHANNEL" not found; SQL statement:
+DROP TABLE NOTIFICATIONCHANNEL [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PARAMETERS" not found; SQL statement:
+DROP TABLE PARAMETERS [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CSE" not found; SQL statement:
+DROP TABLE CSE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CSEBASE" not found; SQL statement:
+DROP TABLE CSEBASE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "SUBSCRIPTION" not found; SQL statement:
+DROP TABLE SUBSCRIPTION [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS_APOCPATH" not found; SQL statement:
+DROP TABLE APOCPATHS_APOCPATH [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE_PERMISSION" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE_PERMISSION [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHT" not found; SQL statement:
+DROP TABLE ACCESSRIGHT [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHTANNC" not found; SQL statement:
+DROP TABLE ACCESSRIGHTANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS" not found; SQL statement:
+DROP TABLE APOCPATHS [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ATTACHEDDEVICE" not found; SQL statement:
+DROP TABLE ATTACHEDDEVICE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATION" not found; SQL statement:
+DROP TABLE APPLICATION [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATIONANNC" not found; SQL statement:
+DROP TABLE APPLICATIONANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CHANNELDATA" not found; SQL statement:
+DROP TABLE CHANNELDATA [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINERANNC" not found; SQL statement:
+DROP TABLE CONTAINERANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINER" not found; SQL statement:
+DROP TABLE CONTAINER [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCE" not found; SQL statement:
+DROP TABLE CONTENTINSTANCE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCES" not found; SQL statement:
+DROP TABLE CONTENTINSTANCES [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "EXECINSTANCE" not found; SQL statement:
+DROP TABLE EXECINSTANCE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPENTITY" not found; SQL statement:
+DROP TABLE GROUPENTITY [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPANNC" not found; SQL statement:
+DROP TABLE GROUPANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINER" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINER [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINERANNC" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINERANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "M2MPOC" not found; SQL statement:
+DROP TABLE M2MPOC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTCMD" not found; SQL statement:
+DROP TABLE MGMTCMD [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTOBJ" not found; SQL statement:
+DROP TABLE MGMTOBJ [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "NOTIFICATIONCHANNEL" not found; SQL statement:
+DROP TABLE NOTIFICATIONCHANNEL [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PARAMETERS" not found; SQL statement:
+DROP TABLE PARAMETERS [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CSE" not found; SQL statement:
+DROP TABLE CSE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CSEBASE" not found; SQL statement:
+DROP TABLE CSEBASE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "SUBSCRIPTION" not found; SQL statement:
+DROP TABLE SUBSCRIPTION [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS_APOCPATH" not found; SQL statement:
+DROP TABLE APOCPATHS_APOCPATH [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE_PERMISSION" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE_PERMISSION [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHT" not found; SQL statement:
+DROP TABLE ACCESSRIGHT [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHTANNC" not found; SQL statement:
+DROP TABLE ACCESSRIGHTANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS" not found; SQL statement:
+DROP TABLE APOCPATHS [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ATTACHEDDEVICE" not found; SQL statement:
+DROP TABLE ATTACHEDDEVICE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATION" not found; SQL statement:
+DROP TABLE APPLICATION [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATIONANNC" not found; SQL statement:
+DROP TABLE APPLICATIONANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CHANNELDATA" not found; SQL statement:
+DROP TABLE CHANNELDATA [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINERANNC" not found; SQL statement:
+DROP TABLE CONTAINERANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINER" not found; SQL statement:
+DROP TABLE CONTAINER [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCE" not found; SQL statement:
+DROP TABLE CONTENTINSTANCE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCES" not found; SQL statement:
+DROP TABLE CONTENTINSTANCES [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "EXECINSTANCE" not found; SQL statement:
+DROP TABLE EXECINSTANCE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPENTITY" not found; SQL statement:
+DROP TABLE GROUPENTITY [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPANNC" not found; SQL statement:
+DROP TABLE GROUPANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINER" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINER [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINERANNC" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINERANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "M2MPOC" not found; SQL statement:
+DROP TABLE M2MPOC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTCMD" not found; SQL statement:
+DROP TABLE MGMTCMD [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTOBJ" not found; SQL statement:
+DROP TABLE MGMTOBJ [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "NOTIFICATIONCHANNEL" not found; SQL statement:
+DROP TABLE NOTIFICATIONCHANNEL [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PARAMETERS" not found; SQL statement:
+DROP TABLE PARAMETERS [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CSE" not found; SQL statement:
+DROP TABLE CSE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CSEBASE" not found; SQL statement:
+DROP TABLE CSEBASE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "SUBSCRIPTION" not found; SQL statement:
+DROP TABLE SUBSCRIPTION [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS_APOCPATH" not found; SQL statement:
+DROP TABLE APOCPATHS_APOCPATH [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE_PERMISSION" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE_PERMISSION [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHT" not found; SQL statement:
+DROP TABLE ACCESSRIGHT [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHTANNC" not found; SQL statement:
+DROP TABLE ACCESSRIGHTANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS" not found; SQL statement:
+DROP TABLE APOCPATHS [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ATTACHEDDEVICE" not found; SQL statement:
+DROP TABLE ATTACHEDDEVICE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATION" not found; SQL statement:
+DROP TABLE APPLICATION [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATIONANNC" not found; SQL statement:
+DROP TABLE APPLICATIONANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CHANNELDATA" not found; SQL statement:
+DROP TABLE CHANNELDATA [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINERANNC" not found; SQL statement:
+DROP TABLE CONTAINERANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINER" not found; SQL statement:
+DROP TABLE CONTAINER [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCE" not found; SQL statement:
+DROP TABLE CONTENTINSTANCE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCES" not found; SQL statement:
+DROP TABLE CONTENTINSTANCES [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "EXECINSTANCE" not found; SQL statement:
+DROP TABLE EXECINSTANCE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPENTITY" not found; SQL statement:
+DROP TABLE GROUPENTITY [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPANNC" not found; SQL statement:
+DROP TABLE GROUPANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINER" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINER [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINERANNC" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINERANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "M2MPOC" not found; SQL statement:
+DROP TABLE M2MPOC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTCMD" not found; SQL statement:
+DROP TABLE MGMTCMD [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTOBJ" not found; SQL statement:
+DROP TABLE MGMTOBJ [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "NOTIFICATIONCHANNEL" not found; SQL statement:
+DROP TABLE NOTIFICATIONCHANNEL [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PARAMETERS" not found; SQL statement:
+DROP TABLE PARAMETERS [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CSE" not found; SQL statement:
+DROP TABLE CSE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CSEBASE" not found; SQL statement:
+DROP TABLE CSEBASE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "SUBSCRIPTION" not found; SQL statement:
+DROP TABLE SUBSCRIPTION [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS_APOCPATH" not found; SQL statement:
+DROP TABLE APOCPATHS_APOCPATH [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE_PERMISSION" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE_PERMISSION [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHT" not found; SQL statement:
+DROP TABLE ACCESSRIGHT [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHTANNC" not found; SQL statement:
+DROP TABLE ACCESSRIGHTANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS" not found; SQL statement:
+DROP TABLE APOCPATHS [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ATTACHEDDEVICE" not found; SQL statement:
+DROP TABLE ATTACHEDDEVICE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATION" not found; SQL statement:
+DROP TABLE APPLICATION [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATIONANNC" not found; SQL statement:
+DROP TABLE APPLICATIONANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CHANNELDATA" not found; SQL statement:
+DROP TABLE CHANNELDATA [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINERANNC" not found; SQL statement:
+DROP TABLE CONTAINERANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINER" not found; SQL statement:
+DROP TABLE CONTAINER [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCE" not found; SQL statement:
+DROP TABLE CONTENTINSTANCE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCES" not found; SQL statement:
+DROP TABLE CONTENTINSTANCES [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "EXECINSTANCE" not found; SQL statement:
+DROP TABLE EXECINSTANCE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPENTITY" not found; SQL statement:
+DROP TABLE GROUPENTITY [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPANNC" not found; SQL statement:
+DROP TABLE GROUPANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINER" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINER [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINERANNC" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINERANNC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "M2MPOC" not found; SQL statement:
+DROP TABLE M2MPOC [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTCMD" not found; SQL statement:
+DROP TABLE MGMTCMD [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTOBJ" not found; SQL statement:
+DROP TABLE MGMTOBJ [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "NOTIFICATIONCHANNEL" not found; SQL statement:
+DROP TABLE NOTIFICATIONCHANNEL [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PARAMETERS" not found; SQL statement:
+DROP TABLE PARAMETERS [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CSE" not found; SQL statement:
+DROP TABLE CSE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CSEBASE" not found; SQL statement:
+DROP TABLE CSEBASE [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "SUBSCRIPTION" not found; SQL statement:
+DROP TABLE SUBSCRIPTION [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS_APOCPATH" not found; SQL statement:
+DROP TABLE APOCPATHS_APOCPATH [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE_PERMISSION" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE_PERMISSION [42102-186]
+02-19 23:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "SEQUENCE" not found; SQL statement:
+SELECT SEQ_NAME FROM SEQUENCE WHERE SEQ_NAME <> SEQ_NAME [42102-186]

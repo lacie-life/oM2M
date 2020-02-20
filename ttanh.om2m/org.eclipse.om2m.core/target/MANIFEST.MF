@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.om2m.core;singleton:=true
+Export-Package: org.eclipse.om2m.core.router
+Bundle-Name: org.eclipse.om2m Core Plugin
+Bundle-Version: 0.8.0.20200219-1621
+Bundle-ClassPath: .,libs/eclipselink.jar,libs/javax.persistence.jar,li
+ bs/h2-1.4.186.jar
+Require-Bundle: org.apache.commons.codec,org.eclipse.osgi,org.eclipse.
+ om2m.commons,org.apache.commons.logging,org.eclipse.om2m.comm.service
+ ,org.eclipse.om2m.ipu.service,org.eclipse.om2m.core.service
+Bundle-ManifestVersion: 2
+Bundle-Activator: org.eclipse.om2m.core.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.om2m.webapp.resourcesbrowser' version='0.8.0.20200219-1621'>
+    <properties size='5'>
+      <property name='artifact.size' value='98951'/>
+      <property name='download.size' value='98951'/>
+      <property name='maven-groupId' value='org.eclipse.om2m'/>
+      <property name='maven-artifactId' value='org.eclipse.om2m.webapp.resourcesbrowser'/>
+      <property name='maven-version' value='0.8.0-SNAPSHOT'/>
+    </properties>
+  </artifact>
+</artifacts>
